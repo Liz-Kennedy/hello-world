@@ -1,2 +1,3 @@
 # hello-world
 a test repository
+Just adding some things to learn about commitment...
